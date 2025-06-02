@@ -6,4 +6,4 @@ My Python learning projects, from simple scripts to capstone projects. see READM
 - FizzBuzz print up to the Nth number
 - Prime Factorization of the number entered by the user
 - Binary / Decimal Converter
-- 
+- Calculator ( Converted infix notation to postfix Reverse Polish notation using Shunting Yard algorithm)
